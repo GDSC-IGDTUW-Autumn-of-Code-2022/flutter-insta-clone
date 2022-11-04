@@ -1,1 +1,1 @@
-# flutter-blog-app
+# flutter-insta-clone
