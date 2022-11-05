@@ -57,7 +57,6 @@ class _HomePageState extends State<HomePage> {
               SizedBox(
                 height: 100,
                 child: ListView.builder(
-                  scrollDirection: Axis.horizontal,
                   itemCount: people.length,
                   itemBuilder: (context, index) {
                     return Stories(name: people[index]);
